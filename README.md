@@ -1,1 +1,2 @@
-# wump-bot
+# Wump 🤖
+
